@@ -1,4 +1,8 @@
 {
-    "name": "private server", 
-    "address": "https://ani.bradenjones.dev"
+    "servers": [
+        {
+            "name": "PRIVATE SERVER",
+            "address": "https://ani.bradenjones.dev"
+        }
+    ]
 }
